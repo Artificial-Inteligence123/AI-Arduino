@@ -1,0 +1,68 @@
+Hello from AI Arduino community!
+
+steps to access the AI - https://www.microsoft.com/en-in/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab
+
+
+------------------------------------------------------------------------------------------------------------------------
+From here download python 3.8 . No other version! -
+------------------------------------------------------------------------------------------------------------------------
+
+1. Open the folder AI
+
+NOTE -
+(if visual studio code is not downloaded. Download it from - https://code.visualstudio.com/download
+download it for your machine.
+
+2. Now for the first time go to 'Maincode' folder.
+
+3. Run the file 'code.bat' . Warning! don't edit it!
+
+4. Now in a user input window will popup 
+
+it will as -
+---------------------------------------------
+AMD version -
+---------------------------------------------
+
+5. Now press the windows key and R
+
+6. Now type cmd
+
+7. A black window should open.
+
+8. Now type python3
+Now your window should look something like this -
+------------------------------------------------------------------------------------------------------------------------------
+C:\Users\praso_>python3
+Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+-------------------------------------------------------------------------------------------------------------------------------
+
+9. Now, Note your 'AMD' version.
+It will look something like this -
+
+64 bit (AMD64)
+
+it means your macine is a 64 bit machine  . So now enter 64 in AMD section.
+
+If it is 32 then enter 32 in AMD section
+
+10. You are just one step away!
+
+Now,  go to dependencies folder run the file 'all.bat'
+It will download all Important files.
+
+11. Now run the python file AI.bat in Maincode folder
+
+or 
+
+run the python file AI_Arduino.py in the 'Maincode' folder
+
+
+
+
+We are working on new updates!
+
+Thanks!
+AI Arduino community!
